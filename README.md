@@ -2,7 +2,7 @@ Purpose
 -------
 
 When developing software you are often working on multiple sql servers - one
-for development and testing, the other for produciton use. While developing
+for development and testing, the other for production use. While developing
 you try to make sure database structure changes are propagated to production
 properly (using whatever means you now do), but, as they say "stuff happens". 
 
